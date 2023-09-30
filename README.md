@@ -19,6 +19,6 @@ What follows are some simple rules for creating good names.
 - <b>Make Meaningful Distinctions</b> 
     * a function or variable name should make a meaningful distinction from one another. like *getUserAccount()* is distinguishable from *account()*, but at the same time *getActiveAccount(), getActiveAccounts(), getActiveAccountInfo(), moneyAccount(), account()*. these names are indistinguishable from each other. In these type of names you have to add a proper comment for each of the functions.
 - <b>Use Pronounceable Names</b>
-    *
+    * Added change
 
     
